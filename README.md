@@ -4,11 +4,14 @@
 **📌 Description**
 -------------------
 
+
 Can you classify the monsters haunting Kaggle? This project is a classification challenge where we analyze various features of creatures to determine if they are Ghosts, Goblins, or Ghouls. The dataset provides physical attributes such as bone length, rotting flesh percentage, hair length, and soul percentage.
+
 
 -------------------
 **📂 Dataset Files**
 -------------------
+
 
 **🔹 Training and Test Data**
 
@@ -41,11 +44,14 @@ color – Dominant color of the creature (white, black, clear, blue, green, bloo
 
 type – The target variable, indicating the creature’s category: Ghost, Goblin, or Ghoul.
 
+
 -------------------
 **🎯 Objective**
 -------------------
 
+
 Develop a machine learning model that can accurately classify a given creature into one of the three categories (Ghost, Goblin, or Ghoul) based on the provided attributes.
+
 
 -------------------
 **🚀 Getting Started**
@@ -63,9 +69,11 @@ Visualize relationships between attributes and creature types
 **🏗 Model Training**
 -------------------
 
-Experiment with classification algorithms (e.g., Decision Trees, Random Forest, KNN, SVM, Neural Networks)
+
+Experiment with classification algorithms (Neural Networks)
 
 Optimize hyperparameters
+
 
 -------------------
 **📤 Submission**
@@ -84,6 +92,7 @@ Generate predictions on test.csv and submit results in the format of sample_subm
 -------------------
 **📈 Evaluation**
 -------------------
+
 
 Models are evaluated based on classification accuracy.
 
