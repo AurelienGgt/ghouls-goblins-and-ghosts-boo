@@ -1,6 +1,6 @@
-<h1 align="center">🧛‍♂️ Ghouls, Goblins, and Ghosts - BOO! 👻</h1>
+# <div align="center">🧛‍♂️ Ghouls, Goblins, and Ghosts - BOO! 👻</div>
 
-<h2 align="center">📌 Description</h2>
+<h1>📌 Description</h1>
 
 <p align="center">
 Can you classify the monsters haunting Kaggle?  
@@ -9,8 +9,7 @@ This project is a classification challenge where we analyze various features of 
 The dataset provides physical attributes such as bone length, rotting flesh percentage, hair length, and soul percentage.
 </p>
 
-
-<h2 align="center">📂 Dataset Files</h2>
+<h1>📂 Dataset Files</h1>
 
 <h3>🔹 Training and Test Data</h3>
 
@@ -30,13 +29,13 @@ Each creature has the following attributes:
 - **color** – Dominant color of the creature (white, black, clear, blue, green, blood).
 - **type** – Target variable indicating the creature’s category: Ghost, Goblin, or Ghoul.
 
-<h2 align="center">🎯 Objective</h2>
+<h1>🎯 Objective</h1>
 
 <p align="center">
 Develop a machine learning model that can accurately classify a given creature into one of the three categories (Ghost, Goblin, or Ghoul) based on the provided attributes.
 </p>
 
-<h2 align="center">🚀 Getting Started</h2>
+<h1>🚀 Getting Started</h1>
 
 <h3>📊 Exploratory Data Analysis</h3>
 
@@ -53,16 +52,32 @@ Develop a machine learning model that can accurately classify a given creature i
 - Generate predictions on `test.csv`.
 - Submit results formatted like `sample_submission.csv`.
 
-<h2 align="center">🤖 Possible Approaches</h2>
+<h1>🤖 Possible Approaches</h1>
 
 - **Feature Engineering**: Create and select relevant features.
 - **Handling Missing Data**: Impute or remove incomplete entries.
 - **Model Selection & Hyperparameter Tuning**: Test multiple models and fine-tune for optimal accuracy.
 
-<h2 align="center">📈 Evaluation</h2>
+<h1>📈 Evaluation</h1>
 
 <p align="center">
 Models will be evaluated based on classification accuracy.
 </p>
+
+---
+
+<div align="center">
+  <h2>🗺️ Project Workflow Diagram</h2>
+  <p>
+    Click the link below to view the full interactive workflow on GitDiagram:
+  </p>
+  <p>
+    <a href="https://gitdiagram.com/aurelienggt/ghouls-goblins-and-ghosts-boo" target="_blank">
+      Link
+    </a>
+  </p>
+</div>
+
+---
 
 <h1 align="center">🏆 Let's classify these monsters and see who haunts Kaggle the best! 👻🎃</h1>
