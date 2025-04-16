@@ -9,6 +9,16 @@ This project is a classification challenge where we analyze various features of 
 The dataset provides physical attributes such as bone length, rotting flesh percentage, hair length, and soul percentage.
 </p>
 
+<h1>📂 Project Structure</h1>
+
+```
+ghouls-goblins-and-ghosts-boo-project/
+│
+├── model/           # Save the different model
+├── pickles/            # Save model inside pickles 
+├── data/              # Datasets related to ghouls-goblins-and-ghosts-boo
+└── README.md          # Project documentation
+```
 <h1>📂 Dataset Files</h1>
 
 <h3>🔹 Training and Test Data</h3>
